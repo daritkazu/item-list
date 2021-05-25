@@ -256,18 +256,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "randomdisease",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "disease",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "reviveanypawn",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -372,7 +362,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 750,
+		"price": 3750,
 		"karmatype": "Good"
 	},
 	{
@@ -384,7 +374,52 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drunkmuffalos",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "protectionfee",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "caravanraidquest",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wantedquest",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "earthquake",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "drought",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 500,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 84
 }
