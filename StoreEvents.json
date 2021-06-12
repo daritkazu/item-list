@@ -301,6 +301,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
 		"price": 1500,
 		"karmatype": "Good"
@@ -363,11 +368,6 @@
 	{
 		"abr": "huntingparty",
 		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "immortality",
-		"price": 100000,
 		"karmatype": "Neutral"
 	}
 	],
